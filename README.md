@@ -1,4 +1,5 @@
-### Hi there 👋
+# I'm Frederico Boaventura
+## A Senior DevOps / SRE / SysAdmin
 
 <!--
 **fboaventura/fboaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ![Frederico's github stats](https://github-readme-stats.vercel.app/api?username=fboaventura&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fboaventura&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fboaventura&layout=compact&theme=dark)
+
+## Top Repositories
+
+![dckr-mrtg](https://github-readme-stats.vercel.app/api/pin?username=fboaventura&repo=dckr-mrtg&show_icons=true&theme=dark)
+![upytimerobot](https://github-readme-stats.vercel.app/api/pin?username=fboaventura&repo=upytimerobot&show_icons=true&theme=dark)
