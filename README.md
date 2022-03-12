@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 
 ![dckr-mrtg](https://github-readme-stats.vercel.app/api/pin?username=fboaventura&repo=dckr-mrtg&show_icons=true&theme=dark)
 ![upytimerobot](https://github-readme-stats.vercel.app/api/pin?username=fboaventura&repo=upytimerobot&show_icons=true&theme=dark)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fboaventura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
